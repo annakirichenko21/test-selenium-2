@@ -4,7 +4,7 @@ import org.junit.Test;
 import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.MarionetteDriver;
 
-import java.util.concurrent.TimeUnit;
+import java.util.concurrent.SeleniumUnit;
 
 import static org.junit.Assert.fail;
 
